@@ -13,7 +13,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/soundpredict.git
+   git clone https://github.com/your-username/soundpredict.git](https://github.com/JesusQais/SoundPredict-.git
+
    cd soundpredict
    
    
